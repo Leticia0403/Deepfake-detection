@@ -67,16 +67,6 @@ After downloading, place the file in the same directory as `streamlit_app2.py` a
 
 ---
 
-## Requirements
-Key dependencies (see `requirements.txt` for full list):
-- Python 3.8+
-- TensorFlow / Keras
-- OpenCV
-- MTCNN
-- Streamlit
-- NumPy, Pandas, Matplotlib, Scikit-learn
-
----
 
 ## Acknowledgements
 - Dataset: FaceForensics++ (Rössler et al., 2019)
